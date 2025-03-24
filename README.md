@@ -18,5 +18,5 @@
 ![Dashboard Screenshot](https://postimg.cc/GHTZQQG7)
 
 # Screenshot for publishing to Azure Marketplace
-![Dashboard Screenshot](https://postimg.cc/2LZ240Mn)
+[![temp-Image-Th-LIBK.avif](https://i.postimg.cc/T1kFvScN/temp-Image-Th-LIBK.avif)](https://postimg.cc/2LZ240Mn)
 
